@@ -1,0 +1,53 @@
+c:\users\александрсевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\bin\Debug\Air pollution.exe.config
+c:\users\александрсевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\bin\Debug\Air pollution.exe
+c:\users\александрсевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\bin\Debug\Air pollution.pdb
+c:\users\александрсевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form1.resources
+c:\users\александрсевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Properties.Resources.resources
+c:\users\александрсевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air pollution.csproj.GenerateResource.Cache
+c:\users\александрсевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air pollution.exe
+c:\users\александрсевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air pollution.pdb
+c:\users\александрсевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form2.resources
+c:\users\александрсевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\bin\Debug\pointsdata.mdf
+c:\users\александрсевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\bin\Debug\pointsdata_log.ldf
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form3.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form4.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form5.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form6.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form7.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form8.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form9.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form10.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form11.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form12.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air pollution.exe.licenses
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form13.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\bin\Debug\TeeChart.dll
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\bin\Debug\TeeChart.xml
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form14.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\bin\Debug\iondescp.mdf
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\bin\Debug\iondescp_log.ldf
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form15.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form16.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form17.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form18.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\bin\Debug\osadk.mdf
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\bin\Debug\osadk_log.ldf
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form19.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form20.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form21.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form22.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form23.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form24.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\bin\Debug\paunez.mdf
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\bin\Debug\paunez_log.ldf
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form25.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form26.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form27.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form28.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form29.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form30.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form31.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form32.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form33.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air_pollution.Form34.resources
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Air pollution\Air pollution\obj\Debug\Air pollution.csprojResolveAssemblyReference.cache

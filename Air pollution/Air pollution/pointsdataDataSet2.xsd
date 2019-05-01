@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="pointsdataDataSet2" targetNamespace="http://tempuri.org/pointsdataDataSet2.xsd" xmlns:mstns="http://tempuri.org/pointsdataDataSet2.xsd" xmlns="http://tempuri.org/pointsdataDataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="pointsdataConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="pointsdataConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Air_pollution.Properties.Settings.GlobalReference.Default.pointsdataConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="probtestTableAdapter" GeneratorDataComponentClassName="probtestTableAdapter" Name="probtest" UserDataComponentName="probtestTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="pointsdataConnectionString (Settings)" DbObjectName="dbo.probtest" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT value FROM dbo.probtest</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="value" DataSetColumn="value" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="pointsdataDataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="pointsdataDataSet2" msprop:Generator_UserDSName="pointsdataDataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="probtest" msprop:Generator_TableClassName="probtestDataTable" msprop:Generator_TableVarName="tableprobtest" msprop:Generator_TablePropName="probtest" msprop:Generator_RowDeletingName="probtestRowDeleting" msprop:Generator_RowChangingName="probtestRowChanging" msprop:Generator_RowEvHandlerName="probtestRowChangeEventHandler" msprop:Generator_RowDeletedName="probtestRowDeleted" msprop:Generator_UserTableName="probtest" msprop:Generator_RowChangedName="probtestRowChanged" msprop:Generator_RowEvArgName="probtestRowChangeEvent" msprop:Generator_RowClassName="probtestRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="value" msprop:Generator_ColumnVarNameInTable="columnvalue" msprop:Generator_ColumnPropNameInRow="value" msprop:Generator_ColumnPropNameInTable="valueColumn" msprop:Generator_UserColumnName="value" type="xs:double" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
